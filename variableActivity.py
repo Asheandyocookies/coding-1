@@ -42,3 +42,5 @@ goldmemberprice=34
 # represents a snake on the ground new_word_
 
 
+name =input("what is your name?")
+print("hello," + name +"!")
