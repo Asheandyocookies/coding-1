@@ -1,3 +1,4 @@
+
 # function - simply put; a code block of
 # instructions for computers to follow.
 
@@ -17,3 +18,15 @@ print(year)
 # print data out in the terminal.
 
 
+Name = "Good Morning"
+print(Len(name))
+
+#Data casting functions
+#these are built in (pre-written) function
+# that change data types from one form into another
+
+
+year = 1906
+
+# str()- this datacasting function allows you to change 
+# any data type into a string
