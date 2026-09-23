@@ -30,3 +30,10 @@ year = 1906
 
 # str()- this datacasting function allows you to change 
 # any data type into a string
+
+#floats() - A function that will change any datatype
+# passed into it, into floats/ decimal number
+
+num2 = input("type in a number:")
+#input always returnes a string
+print(9 + float(num2))
