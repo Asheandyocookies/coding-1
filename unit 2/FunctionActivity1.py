@@ -8,3 +8,13 @@ print (Val>85)
 #print false if it is below 85 
 
 #2.
+
+#arithmetic 
+#take the input
+#add to 360
+#should print out 500
+mum2= input ("")
+print(int(mum2)+360)
+
+#3
+
