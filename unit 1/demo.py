@@ -1,3 +1,3 @@
-Name: Ashe Mondesir
-Grade:10th
-favorite class:Math 
+Name = "Ashe Mondesir"
+Grade = 10
+favorite_class = "Math" 

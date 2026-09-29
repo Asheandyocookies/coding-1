@@ -18,3 +18,4 @@ print(int(mum2)+360)
 
 #3
 
+#take the input
