@@ -5,6 +5,9 @@
 
 
 # phase 1: function Definition- actual code
+from random import choice
+
+
 def calculate_add():
     print("Program has started: please type 2 numbers to add:")
     num1 = int(input())
@@ -32,3 +35,24 @@ num1 = int(input())
 num2 = int(input())
 print(num1 / num2)
     
+if choice == '1':
+    calculate_add()
+elif choice == '2':
+    calculate_subtract()
+elif choice == '3':
+    calculate_multiply()
+elif choice == '4':
+    calculate_divide()
+
+  else:
+    print("error: something went wrong with your choice")
+
+
+
+
+
+
+ if 
+
+
+ 
