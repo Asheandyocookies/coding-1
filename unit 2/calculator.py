@@ -44,15 +44,22 @@ elif choice == '3':
 elif choice == '4':
     calculate_divide()
 
-  else:
+else:
     print("error: something went wrong with your choice")
 
 
 
 
+def get_ticket_price(age): 
+    if age <7:
+        print("your ticket is 8.00")
+    elif age >= 8 and age <=20:
+        print('your ticket is 12.00')
+    elif age >=21 and age <=60:
+        print('your ticket is 20.00')
+    elif age >=61:
+        print("your ticket is free")
+    else:
+        print("Dumb asf follow the rules")
 
-
- if 
-
-
- 
+movieTicket()
