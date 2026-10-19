@@ -1,0 +1,5 @@
+1. My game is going to be an offline game, it will be smimilar to Flappy bird but very different. It will have a twist to it, first we will have an end but also theres bosses you need to defeat along the way.
+your objective is to win, and only win, theres game modes so where your timed and also theres side quest which most you wont need but what you want to do is to win and be a boss against your own past self.
+When you win you get to be a boss, there will be an ai who will copy your exact play style so you can go against yourself. if you lose you try again but you only have 10 saves or you lose you saves and if you die more than 100 times you lose your acc.
+after 100 tries you lose your saves/ acc but you can play against a boss to get it back you get 12 tries and there health stays as you do dmg so if you die their health wont go back.
+flappy bird, Sans,The Dark Queen of Mortholme
