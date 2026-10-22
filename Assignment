@@ -1,0 +1,23 @@
+def vending_machine():
+    running = True
+    
+    while running == True:
+        selection = input("Enter a code (B3, G4, G7, D3, G5) or 'q' to quit: ")
+        
+        if selection == "q":
+            running = False
+            print("Cya!")
+            
+        elif selection == "B3":
+            print("Dispensing: Nacho Chips")
+        elif selection == "G4":
+            print("Dispensing: BBQ Chips")
+        elif selection == "G7":
+            print("Dispensing: Plain Chips")
+        elif selection == "D3":
+            print("Dispensing: Water")
+        elif selection == "G5":
+            print("Dispensing: Cola Soda")
+            
+        else:
+            print("Read the instructions try again bruh.")
